@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerflowBanner.Data", "BannerflowBanner.Data\BannerflowBanner.Data.csproj", "{07DABFA2-7EDB-47CE-816B-D96F408F5169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerflowBanner.Service", "BannerflowBanner.Service\BannerflowBanner.Service.csproj", "{9DED65D0-B6B5-4855-B9C7-7E4ADF17DB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerflowBanner.Test", "BannerflowBanner.Test\BannerflowBanner.Test.csproj", "{643E4CE9-8636-4B4C-A6CB-616ACCCDDD5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BannerflowBanner.API", "BannerflowBanner.API\BannerflowBanner.API.csproj", "{1B60403B-19B7-4716-B7D2-43CB05A7DF5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{07DABFA2-7EDB-47CE-816B-D96F408F5169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07DABFA2-7EDB-47CE-816B-D96F408F5169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07DABFA2-7EDB-47CE-816B-D96F408F5169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DED65D0-B6B5-4855-B9C7-7E4ADF17DB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DED65D0-B6B5-4855-B9C7-7E4ADF17DB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DED65D0-B6B5-4855-B9C7-7E4ADF17DB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DED65D0-B6B5-4855-B9C7-7E4ADF17DB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643E4CE9-8636-4B4C-A6CB-616ACCCDDD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643E4CE9-8636-4B4C-A6CB-616ACCCDDD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643E4CE9-8636-4B4C-A6CB-616ACCCDDD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643E4CE9-8636-4B4C-A6CB-616ACCCDDD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B60403B-19B7-4716-B7D2-43CB05A7DF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B60403B-19B7-4716-B7D2-43CB05A7DF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B60403B-19B7-4716-B7D2-43CB05A7DF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B60403B-19B7-4716-B7D2-43CB05A7DF5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
